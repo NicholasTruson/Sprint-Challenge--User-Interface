@@ -83,6 +83,7 @@ p {
 .top-content .text-container {
     width: 48%;
     display: flex;
+    flex-wrap: wrap;
     padding: 0 1%;
     padding-bottom: 20px;  
 }
@@ -164,7 +165,7 @@ ___________________
     text-decoration: none;
 }
 
-___________________
+___________________ this is the boxes css
 
 .boxes .box:nth-child(1) {
     background: teal; 
